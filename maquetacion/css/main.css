@@ -1,0 +1,173 @@
+/* Inserta tu código aqui */
+*{
+	box-sixing:border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:  #717577;
+}
+p {
+    margin: 18px 0 10px;
+}
+.text-decoration{
+	text-decoration: underline;
+}
+a{
+	color:black;
+}
+a:hover{
+	color: black;
+}
+.navbar{
+	background-color: white;
+	margin: 0px;
+	border:0;
+	border-radius: 0;
+}
+.espacio{
+	padding-right: 90px;
+}
+.w-100{
+ width: 100%;
+}
+.navbar .navbar-brand {
+  font-size: 35px;
+  color: #444;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #444;
+}
+.navbar .navbar-right .separator {
+  margin-top: 12px;
+  margin-left: 5px;
+}
+
+.navbar-default {
+    background-color: #ADA9A9;
+    border-color: #e7e7e7;
+    padding-top: 36px;
+    margin-bottom: 20px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: black;
+    background-color: white;
+}
+
+.bg-white{
+	background-color: white;
+}
+
+.btn-jm{
+	width: 100%
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 6px 19px;
+    font-size: 16px;
+    line-height: 1.3333333;
+    border-radius: 0;
+}
+.btn-primary {
+    color: #fff;
+    background-color: gray;
+    border-color: gray;
+    width: 176px;
+ }
+
+ .btn-primary:hover {
+    color: #fff;
+    background-color: #0A0A0A;
+    border-color: #0D0E0E;
+}
+ .row{
+ 	padding-left: 20px;
+ }
+ .etiqueta{
+ 	background-color: #050505;
+    color: white;
+    padding: 4px 16px;
+    margin-right: 24px;
+ }
+.subtext-articulo{
+	padding-top: 18px;
+	padding-bottom: 5px;
+	    display: inline-block;
+}
+
+.page-header {
+    margin: 18px 0 22px;
+    border-bottom: 1px solid #eee;
+}
+
+.mb-0{
+	margin-bottom: 0;
+}
+
+img{
+	margin-top: 10px
+
+}
+
+.video{
+	max-width: 100%;
+	height: auto !important;
+	background-color: #CBC6C6;
+	padding: 0 7px;
+	    margin-bottom: 20px;
+
+}
+
+.video{
+	position: relative;
+	height: 0;
+	overflow: hidden;
+}
+
+.video iframe, .video object, .video embed{
+	position: absolute;
+	top: 0; left: 0;
+	width: 100%;
+	height: 100%;
+}
+.span-rigth{
+	float: right;
+}
+
+.embed-responsive-16by9 {
+    margin-top: 8px;
+}
+
+.bookmark{
+	width: 100%;
+}
+
+.bookmark-text{
+	padding-left: 40px;
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+
+.magazine{
+	width: 100%;
+	background-color: #DEDFDE;
+	padding: 1px 7px;
+}
+
+.barra-footer{
+	height: 7px;
+    background-color: grey;
+    margin-bottom: 27px;
+        margin-top: 50px;
+}
+
+.espacio{
+	height: 56px;
+}
+
+.enero{
+	height: 100px;
+}
+.text-enero{
+	padding: 15px 28px 4px 100px;
+}
